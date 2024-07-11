@@ -3,4 +3,6 @@ layout: default
 title: Welcome to my blog 
 ---
 
-Iurii Skorniakov
+Hi there! Welcome to my blog. I hope you enjoy your stay.
+
+```
